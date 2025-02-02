@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Ozcan Akkoca on 7.01.2024.
+  
+*/
+
+// General
+"general_info" = "info";
+"general_error" = "Bir hata oluştu";
+"general_error_title" = "Hata";
+"general_ok_button" = "Tamam";
+"general_exit_button" = "Çıkış";
+"general_yes_button" = "Evet";
+"general_no_button" = "Hayır";
+"general_assistant_exit_confirmation" = "Asistanı kapatmak istediğinizden emin misiniz?";
+
+// Home
+"home_title" = "Seven7";
+"home_name" = "Name";
+"home_company" = "Company";
+"home_city" = "City";
+"home_email" = "Email";
+
